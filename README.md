@@ -1,12 +1,12 @@
-<h1 align="center">VS CODE EXTENSION</h1>
+<h1 align="center">😀 VS CODE EXTENSION 😀</h1>
 
 
 - ❤️‍🔥 **Theme** : ONE DARCK PRO
 
 - ❤️‍🔥 **Icon** : Material Icon
 
-________________________________________________________________
-<h3 color="red">MORE EXTENSION:</h3>
+
+<h3 color="red">😊MORE EXTENSION😊:</h3>
 
 - 🔥 **Live Server**
 
